@@ -1,0 +1,33 @@
+_repo: The-Collector-s-Guide-1940-A-monthly-periodical-devoted-to-first-editions-Americana-autograph__62287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Madison, James
+    alias: United States President (1809-1817)
+    birthdate: 1751
+    deathdate: 1836
+    gutenberg_agent_id: '14'
+    url: http://www.gutenberg.org/2009/agents/14
+    wikipedia: http://en.wikipedia.org/wiki/James_Madison
+description: ''
+gutenberg_issued: '2020-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Collector''s Guide, 1940
+
+  A monthly periodical devoted to first editions, Americana,
+
+  autographs, old newspapers and magaines, sheet music, etc.'
+url: http://www.gutenberg.org/ebooks/62287
